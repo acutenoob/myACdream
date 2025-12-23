@@ -10,7 +10,16 @@
 - 今日做题 [codeforces 2180 A B](https://codeforces.com/contest/2180) 
 
 ### `25/12/20` 第 **2** 天
-- 今日做题  某神秘包装后快速幂
+- 今日做题  某神秘包装的快速幂
 
 ### `25/12/21` 第 **3** 天
 - 这个猪鼻没做作业 去补作业了
+
+### `25/12/22` 第 **4** 天
+- 今日做题 [codeforces 1986 A B C D](https://codeforces.com/contest/1986)
+- 今日补题 
+    - [C 数位dp](https://codeforces.com/contest/2180/problem/C)
+    - [D 同步流记得关](https://codeforces.com/contest/2180/problem/D)
+        - [非玄学优化](knowledge/非玄学优化.md)
+    - [E 取模](https://codeforces.com/contest/1986/problem/E)
+    - [F 割边 缩点](https://codeforces.com/contest/1986/problem/F)
