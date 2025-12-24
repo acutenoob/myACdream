@@ -22,4 +22,7 @@
     - [D 同步流记得关](https://codeforces.com/contest/2180/problem/D)
         - [非玄学优化](knowledge/非玄学优化.md)
     - [E 取模](https://codeforces.com/contest/1986/problem/E)
-    - [F 割边 缩点](https://codeforces.com/contest/1986/problem/F)
+    - [F 割边](https://codeforces.com/contest/1986/problem/F)
+
+### `25/12/23` 第 **5** 天
+- 今日做题 [codeforces 2179 A B C D](https://codeforces.com/contest/2179)
