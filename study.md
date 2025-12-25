@@ -26,3 +26,8 @@
 
 ### `25/12/23` 第 **5** 天
 - 今日做题 [codeforces 2179 A B C D](https://codeforces.com/contest/2179)
+
+### `25/12/24` 第 **6** 天
+- 今日做题 [codeforces 1490 A B C D E F](https://codeforces.com/contest/1490/problem/G)
+- 今日补题 
+    - [E](https://codeforces.com/contest/2179/problem/E)
