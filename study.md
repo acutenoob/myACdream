@@ -31,3 +31,6 @@
 - 今日做题 [codeforces 1490 A B C D E F](https://codeforces.com/contest/1490/problem/G)
 - 今日补题 
     - [E](https://codeforces.com/contest/2179/problem/E)
+
+### `25/12/25` 第 **7** 天
+- 今日做题 [codeforces 1904 A B C D1](https://codeforces.com/contest/1904/)
