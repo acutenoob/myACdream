@@ -34,3 +34,8 @@
 
 ### `25/12/25` 第 **7** 天
 - 今日做题 [codeforces 1904 A B C D1](https://codeforces.com/contest/1904/)
+
+### `25/12/26` 第 **8** 天
+- 今日做题 [牛客小白月赛126 A B C D](https://ac.nowcoder.com/acm/contest/126453)
+- 今日补题 
+    - [D2 线段树](https://codeforces.com/contest/1904/D2)
