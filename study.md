@@ -38,4 +38,13 @@
 ### `25/12/26` 第 **8** 天
 - 今日做题 [牛客小白月赛126 A B C D](https://ac.nowcoder.com/acm/contest/126453)
 - 今日补题 
-    - [D2 线段树](https://codeforces.com/contest/1904/D2)
+    - [D2 线段树](https://codeforces.com/contest/1904/problem/D2)
+
+### `25/12/27` 第 **9** 天
+- 今日做题 [codeforces 2178 A B C D](https://codeforces.com/contest/2178/)
+- 今日补题 
+    - [E 数学](https://ac.nowcoder.com/acm/contest/126453/E)
+
+### `25/12/28` 第 **10** 天
+- 今日补题
+    - [F](https://ac.nowcoder.com/acm/contest/126453/F)
