@@ -48,3 +48,16 @@
 ### `25/12/28` 第 **10** 天
 - 今日补题
     - [F](https://ac.nowcoder.com/acm/contest/126453/F)
+
+### `25/12/28` 第 **10** 天
+- 今日补题
+    - [F](https://ac.nowcoder.com/acm/contest/126453/F)
+
+### `25/12/29` 第 **11** 天
+- 今日做题 [codeforces 2182 A B C](https://codeforces.com/contest/2182)
+- 今日补题 
+    - [G](https://ac.nowcoder.com/acm/contest/126453/G)
+
+### `25/12/30` 第 **12** 天
+- 今日补题
+    - [D](https://codeforces.com/contest/2182/problem/D)
