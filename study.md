@@ -72,3 +72,8 @@
 
 ### `26/1/20` 第 **13** 天
 - [D](https://codeforces.com/contest/2042)
+
+### `26/1/21` 第 **14** 天
+- 今日做题 
+    - [codeforces 1742 A B C D E F](https://codeforces.com/contest/1742)
+    - [codeforces 1359 A B C D](https://codeforces.com/contest/1359)
