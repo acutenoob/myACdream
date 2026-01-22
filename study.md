@@ -69,3 +69,6 @@
 ### `26/1/19` 第 **12** 天
 - **我回来了!!**
 - 今日做题 [codeforce 2043 A B C ](https://codeforces.com/contest/2043)
+
+### `26/1/20` 第 **13** 天
+- [D](https://codeforces.com/contest/2042)
