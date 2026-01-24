@@ -82,3 +82,7 @@
 - 今日补题
     - [E 组合数](https://codeforces.com/contest/1359/problem/E)
     - [G 暴力](https://codeforces.com/contest/1742/problem/G)
+    
+### `26/1/23` 第 **16** 天
+- 今日做题
+    - [codeforce 2189 A B C1](https://codeforces.com/contest/2189)
