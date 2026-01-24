@@ -77,3 +77,8 @@
 - 今日做题 
     - [codeforces 1742 A B C D E F](https://codeforces.com/contest/1742)
     - [codeforces 1359 A B C D](https://codeforces.com/contest/1359)
+
+### `26/1/22` 第 **15** 天
+- 今日补题
+    - [E 组合数](https://codeforces.com/contest/1359/problem/E)
+    - [G 暴力](https://codeforces.com/contest/1742/problem/G)
