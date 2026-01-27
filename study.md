@@ -86,3 +86,23 @@
 ### `26/1/23` 第 **16** 天
 - 今日做题
     - [codeforce 2189 A B C1](https://codeforces.com/contest/2189)
+
+### `26/1/24` 第 **17** 天
+- 今日补题
+    - [C2](https://codeforces.com/contest/2189/problem/C2)
+
+### `26/1/25` 第 **18** 天
+- 今日做题
+    - [codeforce 2189 A B C1](https://codeforces.com/contest/2189)
+
+### `26/1/26` 第 **19** 天
+- 今日做题
+    - [codeforce 2134](https://codeforces.com/contest/2134)
+
+### `26/1/27` 第 **20** 天
+- 今日做题
+    - [codeforce 2193 A B C D R F](https://codeforces.com/contest/2193)
+
+### `26/1/27` 第 **20** 天
+- 今日做题
+    - [codeforce 1841 A B C](https://codeforces.com/contest/1841)
