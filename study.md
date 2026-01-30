@@ -116,3 +116,7 @@
     - [D 正难则反](https://codeforces.com/contest/1841/problem/D)
     - [C 边缘处理](https://codeforces.com/contest/2134/problem/C)
     - [G "至多" "注意"](https://codeforces.com/contest/1760/problem/G)
+
+### `26/1/30` 第 **23** 天
+- 今日做题
+    - [codeforce 1964 A B](https://codeforces.com/contest/1946)
