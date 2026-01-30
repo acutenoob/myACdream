@@ -106,3 +106,13 @@
 ### `26/1/27` 第 **20** 天
 - 今日做题
     - [codeforce 1841 A B C](https://codeforces.com/contest/1841)
+
+### `26/1/28` 第 **21** 天
+- 今日做题
+    - [codeforce 1837 A B C D E](https://codeforces.com/contest/1837)
+
+### `26/1/29` 第 **22** 天
+- 今日补题
+    - [D 正难则反](https://codeforces.com/contest/1841/problem/D)
+    - [C 边缘处理](https://codeforces.com/contest/2134/problem/C)
+    - [G "至多" "注意"](https://codeforces.com/contest/1760/problem/G)
