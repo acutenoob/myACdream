@@ -120,3 +120,7 @@
 ### `26/1/30` 第 **23** 天
 - 今日做题
     - [codeforce 1964 A B](https://codeforces.com/contest/1946)
+
+### `26/1/31` 第 **24** 天
+- 今日做题 
+    - [codeforce 1994 A B C](https://codeforces.com/contest/1994)
