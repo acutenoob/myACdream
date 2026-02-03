@@ -128,3 +128,7 @@
 ### `26/2/1` 第 **25** 天
 - 今日补题
     - [D 抽屉原理](https://codeforces.com/contest/1994/problem/D)
+
+### `26/2/2` 第 **26** 天
+- 今日做题
+    - [codeforces 2055 A B C](https://codeforces.com/contest/2055)
