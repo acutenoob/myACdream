@@ -132,3 +132,16 @@
 ### `26/2/2` 第 **26** 天
 - 今日做题
     - [codeforces 2055 A B C](https://codeforces.com/contest/2055)
+
+### `26/2/3` 第 **27** 天
+- 今日做题
+    - [寒假营](https://ac.nowcoder.com/acm/contest/120561)
+
+### `26/2/4` 第 **28** 天
+- 今日补题
+    - [负数取模](https://ac.nowcoder.com/acm/contest/120561/H)
+
+### `26/2/5` 第 **29** 天
+- 今日做题
+    - [寒假营](https://ac.nowcoder.com/acm/contest/120561)
+        - 1 << i 会爆炸int
