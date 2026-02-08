@@ -154,3 +154,7 @@
 ### `26/2/7` 第 **31** 天
 - 今日做题
     - [寒假营](https://ac.nowcoder.com/acm/contest/120563)
+
+### `26/2/8` 第 **32** 天
+- 今日做题
+    - [D](https://ac.nowcoder.com/acm/contest/127702/D)
