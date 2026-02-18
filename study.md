@@ -158,3 +158,8 @@
 ### `26/2/8` 第 **32** 天
 - 今日做题
     - [D](https://ac.nowcoder.com/acm/contest/127702/D)
+
+### `26/2/18` 第 **33** 天
+春节放假回来了:
+- 今日做题
+    - [codeforces 2031 A B C](https://codeforces.com/contest/2031)
