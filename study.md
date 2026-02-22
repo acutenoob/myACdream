@@ -164,6 +164,14 @@
 - 今日做题
     - [codeforces 2031 A B C](https://codeforces.com/contest/2031)
 
-### `26/2/18` 第 **34** 天
+### `26/2/19` 第 **34** 天
 - 今日做题
     - 水题
+
+### `26/2/21` 第 **35** 天
+- 今日做题
+    - [codeforces 1988](https://codeforces.com/contest/1988/)
+
+### `26/2/22` 第 **36** 天
+- 今日做题
+    - [codeforces 2192](https://codeforces.com/contest/2192)

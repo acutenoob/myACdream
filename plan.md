@@ -6,9 +6,9 @@
 
 - [ ] https://ac.nowcoder.com/acm/contest/120561/I
 
-- [ ] 
+- [ ] https://codeforces.com/contest/1988/problem/D
 
-- [ ] 
+- [ ] https://codeforces.com/contest/2192/problem/D
 
 - [ ] 
 
