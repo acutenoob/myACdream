@@ -175,3 +175,11 @@
 ### `26/2/22` 第 **36** 天
 - 今日做题
     - [codeforces 2192](https://codeforces.com/contest/2192)
+
+### `26/2/23` 第 **37** 天
+- 今日做题
+    - [codeforces 2202](https://codeforces.com/contest/2202)
+
+### `26/2/24` 第 **38** 天
+- 今日补题
+    - [E 正难则反反反](https://codeforces.com/contest/2123/problem/E)
