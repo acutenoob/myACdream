@@ -183,3 +183,11 @@
 ### `26/2/24` 第 **38** 天
 - 今日补题
     - [E 正难则反反反](https://codeforces.com/contest/2123/problem/E)
+
+### `26/2/25` 第 **39** 天
+- 今日做题
+    - [codeforces 2203](https://codeforces.com/contest/2203)
+
+### `26/2/26` 第 **40** 天
+- 今日做题
+    - [codeforces 2205](https://codeforces.com/contest/2205)
