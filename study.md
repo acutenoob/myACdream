@@ -191,3 +191,11 @@
 ### `26/2/26` 第 **40** 天
 - 今日做题
     - [codeforces 2205](https://codeforces.com/contest/2205)
+
+### `26/2/27` 第 **41** 天
+- 今日做题
+    - [codeforces 2200](https://codeforces.com/contest/2200)
+
+### `26/2/28` 第 **42** 天
+- 今日做题
+    - [codeforces 2026](https://codeforces.com/contest/2026)
