@@ -199,3 +199,11 @@
 ### `26/2/28` 第 **42** 天
 - 今日做题
     - [codeforces 2026](https://codeforces.com/contest/2026)
+
+### `26/3/1` 第 **43** 天
+- 今日做题
+    - [D dp](https://codeforces.com/contest/1988/problem/D)
+
+### `26/3/2` 第 **44** 天
+- 今日做题
+    - [codeforces 2025](https://codeforces.com/contest/2025)
