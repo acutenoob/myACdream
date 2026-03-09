@@ -227,3 +227,9 @@
 ### `26/3/7` 第 **49** 天
 - 今日做题
     - [C](https://codeforces.com/contest/1976/problem/C)
+
+### `26/3/8` 第 **50** 天
+- 今日做题
+    - [codeforces 2207](https://codeforces.com/contest/2207)
+    - [牛客周赛](https://ac.nowcoder.com/acm/contest/129231)
+    - 警钟长鸣: 模数不要自己敲
