@@ -242,3 +242,8 @@
 ### `26/3/10` 第 **52** 天
 - 今日做题
     - [codeforces 2106](https://codeforces.com/contest/2106/)
+
+### `26/3/10` 第 **53** 天
+- 今日做题
+    - [gym](https://www.luogu.com.cn/contest/291968#problems)
+        - [欧拉函数](https://acutenoob.github.io/cuteblog/2026/03/12/euler-phi/)
