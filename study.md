@@ -293,4 +293,12 @@
 - 今日做题
     - [牛客周赛](https://ac.nowcoder.com/acm/contest/130107#question)
 
+### `26/3/23` 第 **63** 天
+- 今日做题
+    - [codeforces 1791](https://codeforces.com/contest/1791)
+        - [G2 不要害怕重构](https://codeforces.com/contest/1791/problem/G2);
 
+
+### `26/3/24` 第 **64** 天
+- 今日做题
+    - [codeforces 1923](https://codeforces.com/contest/1923/problem/D)
